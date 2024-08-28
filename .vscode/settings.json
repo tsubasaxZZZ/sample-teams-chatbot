@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c173f171-5fe0-4da8-a696-1c299495246f/resourceGroups/rg-bottest/providers/Microsoft.Web/sites/tsunomurbot",
+    "appService.deploySubpath": "."
+}
