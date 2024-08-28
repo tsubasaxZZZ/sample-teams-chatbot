@@ -4,6 +4,17 @@ Demonstrate the core capabilities of the Microsoft Bot Framework
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
+## Tips
+
+### ngrok の起動
+```bash
+ngrok http 3978 --host-header rewrite --domain=possible-goat-proud.ngrok-free.app
+```
+
+### アプリの起動
+
+VS Code のデバッグから起動する
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
